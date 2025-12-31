@@ -8,3 +8,5 @@ const isLogin =(username) =>{
 let test=()=>{
     return true;
 }
+
+ let test2 = "Hana";
