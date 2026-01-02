@@ -40,4 +40,5 @@ unordered List:
 ---
 [go to chatgpt](https://chatgpt.com/)
 
-!!![Git_Image](https://octodex.github.com/images/dojocat.jpg)
+![Git_Image](https://octodex.github.com/images/dojocat.jpg)
+![Git_image2](https://octodex.github.com/images/minion.png)
