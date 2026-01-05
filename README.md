@@ -2,6 +2,12 @@
 ## Test README for first repo
 #### Test README for first repo
 
+#Tables
+| col1 | col2 | col3 | col4 |
+| -- | -- | -- | -- |
+| 1 | a | b | c |
+| 2 | d | e | f 
+
 ---
 <p>Test1</p>
 
@@ -48,3 +54,16 @@ unordered List:
 
  - this **Text** is bold
  - this __Text__ is bold
+ - this *Text* is italic
+ - this _Text_ is italic
+ - this ***Text*** is italic & bold
+ - this ___Text___ is italic & bold
+
+---
+> Hi
+>> bye
+
+---
+```diff
+- const login = () =>true
++ const logout =() =>false
