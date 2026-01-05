@@ -45,3 +45,6 @@ unordered List:
 
 ![Downoad_badge](https://shields.io/npm/dw/cors)
 ![express_badge](https://shields.io/npm/dw/express)
+
+ - this **Text** is bold
+ - this __Text__ is bold
